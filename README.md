@@ -1,7 +1,7 @@
 # info-beamer-timeline
 A modern horizontal day-timeline for info-beamer hosted.
 
-![Timeline Icon](package.png)
+![Timeline Icon](example.jpg)
 
 ## ⭐ Features
 - Daily timeline from 06:00–24:00
