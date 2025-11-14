@@ -1,0 +1,6 @@
+{
+  "name": "Timeline Overlay",
+  "author": "Serdal",
+  "desc": "Zeigt eine Tages-Timeline als Overlay auf einem Hintergrundbild",
+  "platform": "pi"
+}

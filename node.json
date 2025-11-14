@@ -1,0 +1,21 @@
+{
+  "name": "Timeline Overlay Node",
+  "version": "9.0",
+  "options": [
+    {
+      "name": "background",
+      "title": "Hintergrund (Bild oder Video)",
+      "type": "resource",
+      "valid": ["image", "video"],
+      "default": "background.jpg",
+      "desc": "Bild- oder Videodatei als Hintergrund. Standard ist background.jpg aus dem Package."
+    },
+    {
+      "name": "events_inline",
+      "title": "Events (als JSON eingeben)",
+      "type": "text",
+      "desc": "Optional: Inhalt im JSON-Format. Wenn ausgefüllt, ersetzt dies die events.json Datei.",
+      "default": ""
+    }
+  ]
+}

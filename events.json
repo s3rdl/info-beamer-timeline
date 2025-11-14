@@ -1,0 +1,10 @@
+{
+  "events": [
+    { "title": "Daily Standup",     "start": "09:00", "end": "09:30" },
+    { "title": "How to learn Revolution",     "start": "10:00", "end": "11:00" },
+    { "title": "Mittagspause",      "start": "11:00", "end": "12:00" },
+    { "title": "Fressnarkose",      "start": "12:00", "end": "12:45" },
+    { "title": "Kill your Leaders", "start": "14:00", "end": "17:30" },
+    { "title": "Deployment",        "start": "17:30", "end": "23:00" }
+  ]
+}
