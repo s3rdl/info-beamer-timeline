@@ -27,3 +27,5 @@ Du kannst Events entweder in `events.json` (im Package) pflegen:
     { "title": "Workshop", "start": "10:00", "end": "11:30" }
   ]
 }
+```
+oder im info-beamer Setup im Feld “Events (als JSON eingeben)” (events_inline) direkt eintragen. Inline überschreibt die Datei.
