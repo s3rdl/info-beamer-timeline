@@ -341,5 +341,5 @@ function node.render()
 
     draw_timeline()
 
-    draw_text_left(VERSION, 20, 20, 24, 1, 1, 1, 0.8)
+--    draw_text_left(VERSION, 20, 20, 24, 1, 1, 1, 0.8)
 end
