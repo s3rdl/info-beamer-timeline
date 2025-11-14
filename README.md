@@ -2,7 +2,7 @@
 
 Horizontale Tages-Timeline für info-beamer hosted / pi:
 
-- Zeitfenster 08–23 Uhr
+- Zeitfenster 06–24 Uhr
 - Events aus `events.json` **oder** inline über Setup-Config (`events_inline`)
 - Hintergrund als Bild **oder** Video (MP4/MOV) aus Setup-Config
 - Glas-Optik + animierte "Jetzt"-Linie
