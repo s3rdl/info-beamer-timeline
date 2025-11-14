@@ -16,14 +16,15 @@ local util = require "util"
 
 local WIDTH, HEIGHT = NATIVE_WIDTH, NATIVE_HEIGHT
 
-local VERSION = "Timeline v9 (Video-BG + Glas + Animation)"
+local VERSION = "Unlearn Obayance"
+-- local VERSION = "Timeline v9 (Video-BG + Glas + Animation)"
 
 ----------------------------------------------------------------------
 -- Timeline-Konfiguration
 ----------------------------------------------------------------------
 
-local DAY_START_H = 8
-local DAY_END_H   = 23
+local DAY_START_H = 6
+local DAY_END_H   = 24
 local DAY_START   = DAY_START_H * 3600
 local DAY_END     = DAY_END_H   * 3600
 local DAY_SPAN    = DAY_END - DAY_START
@@ -341,5 +342,5 @@ function node.render()
 
     draw_timeline()
 
---    draw_text_left(VERSION, 20, 20, 24, 1, 1, 1, 0.8)
+    draw_text_left(VERSION, 20, 20, 24, 1, 1, 1, 0.8)
 end

@@ -28,4 +28,5 @@ Du kannst Events entweder in `events.json` (im Package) pflegen:
   ]
 }
 ```
+
 oder im info-beamer Setup im Feld “Events (als JSON eingeben)” (events_inline) direkt eintragen. Inline überschreibt die Datei.
