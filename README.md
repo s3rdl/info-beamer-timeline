@@ -1,4 +1,4 @@
-# info-beamer-timeline
+# info-beamer Timeline
 A modern horizontal day-timeline for info-beamer hosted.
 
 ![Timeline Icon](example.jpg)
